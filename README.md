@@ -1,2 +1,2 @@
 # html-css-javascript
-coursera_assignmnet  html_css_javascript
+coursera_module 2 assignmnet  html_css_javascript
